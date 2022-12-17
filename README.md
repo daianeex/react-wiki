@@ -1,4 +1,4 @@
-# React - Calc Project
+# React - GitHub Wiki Projec
 GitHub Repository Wiki project, created in [Orange Tech](https://web.dio.me/track/orange-tech/) + Bootcamp.
 
 ## Technologies 
